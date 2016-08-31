@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.ArrayList;
 
-import comrayihbou.github.pentagramunam.DetalleMascota;
+import comrayihbou.github.pentagramunam.Principal.DetalleMascota;
 import comrayihbou.github.pentagramunam.pojo.Mascotas;
 import comrayihbou.github.pentagramunam.R;
 

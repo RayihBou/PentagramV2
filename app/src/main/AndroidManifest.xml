@@ -9,14 +9,14 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PantallaPrincipal">
+        <activity android:name=".Principal.PantallaPrincipal">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DetalleMascota" />
+        <activity android:name=".Principal.DetalleMascota" />
         <activity android:name=".Menu.ActivityContacto" />
         <activity android:name=".Menu.ActivityAcercaDe"></activity>
     </application>

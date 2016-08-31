@@ -1,4 +1,4 @@
-package comrayihbou.github.pentagramunam;
+package comrayihbou.github.pentagramunam.Principal;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
@@ -14,6 +14,7 @@ import java.util.ArrayList;
 
 import comrayihbou.github.pentagramunam.Menu.ActivityAcercaDe;
 import comrayihbou.github.pentagramunam.Menu.ActivityContacto;
+import comrayihbou.github.pentagramunam.R;
 import comrayihbou.github.pentagramunam.adapter.PageAdapter;
 import comrayihbou.github.pentagramunam.fragment.Perfil;
 import comrayihbou.github.pentagramunam.fragment.RecyclerViewFragment;

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="comrayihbou.github.pentagramunam.PantallaPrincipal">
+    tools:context=".Principal.PantallaPrincipal">
 
 
 
@@ -11,7 +11,8 @@
         android:id="@+id/rvLikes"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/rvMascotas"
+        android:layout_below="@+id/mibarra"
+
         />
 
 </RelativeLayout>

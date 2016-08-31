@@ -1,4 +1,4 @@
-package comrayihbou.github.pentagramunam;
+package comrayihbou.github.pentagramunam.Principal;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import comrayihbou.github.pentagramunam.R;
 import comrayihbou.github.pentagramunam.adapter.MascotasAdaptador;
 import comrayihbou.github.pentagramunam.pojo.Mascotas;
 

@@ -6,13 +6,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/cordinatorlayout"
-    tools:context="comrayihbou.github.pentagramunam.PantallaPrincipal">
+    tools:context=".Principal.PantallaPrincipal">
 
     <android.support.design.widget.AppBarLayout
-        android:id="@+id/AppBar"
+        android:id="@+id/mibarra"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
         >
 
     <android.support.v7.widget.Toolbar
